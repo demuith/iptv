@@ -1,9 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="Commentary",DEFAULT=NO,AUTOSELECT=NO,URI="https://raw.githubusercontent.com/demuith/iptv/main/audio"
 
-#EXT-X-STREAM-INF:BANDWIDTH=65000,CODECS="mp4a.40.5",AUDIO="aac"
-https://raw.githubusercontent.com/demuith/iptv/main/video
+#EXTINF:-1
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
 https://iptv-nublltsls-mwafa.vercel.app/api/yt?id=XdZ2nJvmfrI
