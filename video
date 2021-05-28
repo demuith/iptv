@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,video
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon-avc1_1000000=5.m3u8
+
+#EXT-X-ENDLIST
