@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:42383
+#EXTINF:9.12,
+file:////storage/emulated/0/Download/PHXDownloads/chunks/.l_13782721_64221030_42383.ts
+#EXTINF:10.24,
+file:////storage/emulated/0/Download/PHXDownloads/chunks/.l_13782721_64230150_42384.ts
+#EXTINF:9.92,
+file:////storage/emulated/0/Download/PHXDownloads/chunks/.l_13782721_64240390_42385.ts
+#EXTINF:9.92,
+file:////storage/emulated/0/Download/PHXDownloads/chunks/.l_13782721_64250310_42386.ts
