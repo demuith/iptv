@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="nasional", ANTV
 https://raw.githubusercontent.com/demuith/iptv/main/antv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="nasional", ANTV MIVO
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
 https://iptv-nublltsls-mwafa.vercel.app/api/yt?id=XdZ2nJvmfrI
 
