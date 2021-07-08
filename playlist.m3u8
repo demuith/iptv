@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1179599,RESOLUTION=720x576,CODECS="avc1.66.30,mp4a.40.2"
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=624343,RESOLUTION=360x288,CODECS="avc1.42c015,mp4a.40.2"
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_288p/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=416090,RESOLUTION=240x192,CODECS="avc1.42c014,mp4a.40.2"
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_192p/chunks.m3u8
